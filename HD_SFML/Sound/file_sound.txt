@@ -1,0 +1,7 @@
+6
+Sound/DanLua.wav
+Sound/DanDa.wav
+Sound/DanThanhKiem.wav
+Sound/DanTiaSang.wav
+Sound/SFXnhan.wav
+Sound/SFXdatthap.wav
